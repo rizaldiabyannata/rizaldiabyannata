@@ -42,9 +42,7 @@
   
 <br>
 <br>
-  <br>
-  
-[![Rizaldi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rizaldiabyannata&theme=tokyonight)](https://git.io/praveenscience)
+<br>
 
 | ![Rizaldi's github stats](https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizaldiabyannata&theme=tokyonight) |
 | --- | --- |
