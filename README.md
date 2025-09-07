@@ -1,57 +1,69 @@
-<h1> Hello Hello < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
+# Hi there, I'm Rizaldi Abyannata 👋
+
+I am an Informatics Engineering student at the **University of Mataram** and a passionate technology enthusiast. My primary focus is on **Backend and Web Development**, and I enjoy building robust and scalable applications.
+
+## 📬 Get in Touch
+
+<p align="left">
+<a href="https://www.linkedin.com/in/rizaldi-abyannata-1093571b5/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rizaldi-abyannata"/></a>
+<a href="mailto:mail@rizaldiabyannata.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rizaldi-abyannata"/></a>
+<a href="https://www.rizaldiabyannata.dev" target="blank"><img align="center" src="https://img.shields.io/badge/Website-dev-black?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="rizaldiabyannata"/></a>
+<a href="https://instagram.com/abyannata___" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="abyannata___"/></a>
 </p>
 
+## 💻 Languages and Tools
 
-<img src="https://avatars.githubusercontent.com/u/113687598?s=400 u=6a8d8769c24f767554eac076c704f5aef0e04632&v=4" width="50" style="border-radius:50%; margin-right:20px;" align="left"/>
+### Languages
 
-
-[![Github](https://img.shields.io/github/followers/rizaldiabyannata?label=Follow&style=social)](https://github.com/rizaldiabyannata)
-
-<p size='20px'> Hi! My name is Rizaldi Abyannata. Thank You for taking the time to view my GitHub Profile :smile: 
+<p align="left">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+### Frontend Development
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<p align="left">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+    <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
+    <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+    <a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
+</p>
 
-- 🔭 I’m currently Studying in University of Mataram
-  
-- 🌱 I’m currently learning Git, Java, and NextJs
-  
-- 💬 Ask me about Sql, Java, C++, JavaScript
+### Backend Development
 
+<p align="left">
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
+    <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
+</p>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href=https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=vue&sort= > <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg' width='32px' /></a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'> </a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/rizaldiabyannata?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/html.svg'> </a>
+### Databases
 
+<p align="left">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+</p>
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://rizaldiabyannata.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/rizaldiabyannata'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rizaldiabyannata/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-<br>
+### Others
 
-| ![Rizaldi's github stats](https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rizaldiabyannata&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldiabyannata&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<p align="left">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+</p>
 
-<br>
+## 📊 GitHub Stats
 
-
------
-Credits: [Rizaldi Abyannata](https://github.com/rizaldiabyannata)
-
-Last Edited on: 21/10/2024
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="rizaldiabyannata's GitHub stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldiabyannata&layout=compact&theme=tokyonight" alt="rizaldiabyannata's top languages" />
+</p>
