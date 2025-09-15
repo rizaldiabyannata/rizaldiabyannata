@@ -16,12 +16,13 @@ I am an Informatics Engineering student at the **University of Mataram** and a p
 ### Languages
 
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
 </p>
 
 ### Frontend Development
@@ -62,8 +63,41 @@ I am an Informatics Engineering student at the **University of Mataram** and a p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="rizaldiabyannata's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rizaldiabyannata&show_icons=true&theme=holi&include_all_commits=true&count_private=true" alt="rizaldiabyannata's GitHub stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldiabyannata&layout=compact&theme=tokyonight" alt="rizaldiabyannata's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizaldiabyannata&layout=compact&theme=holi" alt="rizaldiabyannata's top languages" />
+</p>
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/rizaldiabyannata/TDK-be">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizaldiabyannata&repo=TDK-be&theme=holi" />
+  </a>
+  <a href="https://github.com/rizaldiabyannata/gallery-web-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizaldiabyannata&repo=gallery-web-app&theme=holi" />
+  </a>
+  <a href="https://github.com/rizaldiabyannata/kioskita-go">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizaldiabyannata&repo=kioskita-go&theme=holi" />
+  </a>
+  <a href="https://github.com/rizaldiabyannata/fintrack-be">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rizaldiabyannata&repo=fintrack-be&theme=holi" />
+  </a>
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rizaldiabyannata&theme=holi&column=7" />
+  </a>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizaldiabyannata&bg_color=030314&color=D6E7FF&line=5FABEE&point=5FABEE&area=true&hide_border=true" />
+  </a>
 </p>
